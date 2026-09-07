@@ -21,3 +21,4 @@ Room Database Persistence: Robust local SQLite architecture utilizing Room DAOs 
 ---
 <img width="762" height="1152" alt="image" src="https://github.com/user-attachments/assets/82f21b40-8eac-4dad-ba5e-ba1bb291a7e8" />
 <img width="792" height="1168" alt="image" src="https://github.com/user-attachments/assets/12686279-9549-40c4-9ebd-fb7af0bf1808" />
+<img width="874" height="1154" alt="image" src="https://github.com/user-attachments/assets/b254e656-059f-4421-8e31-228da45aa7d3" />

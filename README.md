@@ -18,3 +18,5 @@ Visual Design & Architecture:
 Material 3 Interface: Modern indigo and teal palette, dynamic greeting headers, interactive circular progress meters, and task statistics cards.
 Room Database Persistence: Robust local SQLite architecture utilizing Room DAOs and Kotlin StateFlows for reactive data updates.
 ---
+---
+<img width="762" height="1152" alt="image" src="https://github.com/user-attachments/assets/82f21b40-8eac-4dad-ba5e-ba1bb291a7e8" />
